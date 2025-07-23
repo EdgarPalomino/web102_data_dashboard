@@ -1,4 +1,4 @@
-# WEB102 Project 5 - Discover Classical Music
+# WEB102 Project 6 - Discover Classical Music
 
 Submitted by: **Edgar Palomino**
 
