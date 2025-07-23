@@ -10,17 +10,14 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-* [X] The site has a dashboard displaying a list of data fetched using an API call.
-* [X] useEffect React hook and async/await are used.
-* [X] The app dashboard includes at least three summary statistics about the data.
-* [X] A search bar allows the user to search for an item in the fetched data.
-* [X] An additional filter allows the user to restrict displayed items by specified categories.
+* [X] Clicking on an item in the list view displays more details about it.
+* [X] Each detail view of an item has a direct, unique link to that item’s page.
+* [X] The app includes at least two unique charts developed using the fetched data that tell an interesting story.
 
 The following **optional** features are implemented:
 
-* [X] Multiple filters can be applied simultaneously.
-* [X] Filters use different input types.
-* [X] The user can enter specific bounds for filter values.
+* [X] The site’s customized dashboard contains more content that explains what is interesting about the data.
+* [X] The site allows users to toggle between different data visualizations.
 
 ## Video Walkthrough
 
